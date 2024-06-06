@@ -3,6 +3,6 @@
 
 Libraries Used:
 
-matplotlib
-Covid
+matplotlib,
+Covid,
 Tkinter
